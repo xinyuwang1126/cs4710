@@ -1,0 +1,6 @@
+For simplicity, all the irrelevant atoms are colored black.
+All the alpha-C in chain E are colored blue.
+All the alpha-C in chain I are colored green.
+Amino acid residues in chain E in the interface are colored red.
+Amino acid residues in chain I in the interface are colored orange.
+The threshold is set as 6.
